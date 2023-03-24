@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edwinkenda
-- 👀 I’m interested in Web development and android software development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Angular and SpringBoot
 - 💞️ I’m looking to collaborate on interesting projects in the near future
 - 📫 reach me on edwinkenda@gmail.com
 
